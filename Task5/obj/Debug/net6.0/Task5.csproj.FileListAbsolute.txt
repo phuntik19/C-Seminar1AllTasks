@@ -1,0 +1,15 @@
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\bin\Debug\net6.0\Task5.exe
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\bin\Debug\net6.0\Task5.deps.json
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\bin\Debug\net6.0\Task5.dll
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\bin\Debug\net6.0\Task5.pdb
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.dll
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\refint\Task5.dll
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.pdb
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
+c:\Users\Админ\Desktop\C##\Seminar1\Task5\obj\Debug\net6.0\ref\Task5.dll
